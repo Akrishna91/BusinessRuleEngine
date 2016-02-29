@@ -6,5 +6,9 @@ package com.java.main.businessrules;
  *
  */
 public class AssociationBusinessRules {
+	
+	public void test(){
+		
+	}
 
 }
