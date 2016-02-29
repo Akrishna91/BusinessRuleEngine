@@ -8,6 +8,7 @@ package com.java.main.businessrules;
 public class AssociationBusinessRules {
 	
 	public void test(){
+		System.out.println("test");
 		
 	}
 
